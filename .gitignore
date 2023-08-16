@@ -7,6 +7,7 @@ logs.txt
 .nv/
 experiments/
 debug/
+data/assembly101/coarse-annotations/
 # Byte-compiled / optimized / DLL files
 #
 __pycache__/
