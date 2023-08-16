@@ -70,6 +70,8 @@ class Assembly101(Dataset):
                                     entry['view'],
                                     "features.npy")
                 if not isfile(feature_path):
+                    logger.warn(f"Numpy feature map "
+                                f"{sample['action_type']}_{sample['video_id']}_{sample['view']} not found.")
                     continue
                 sample['feat_path'] = feature_path
 
