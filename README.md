@@ -15,7 +15,7 @@ The attention mechanism consist of Windowed Attention and Long-term Context Atte
 </p>
 
 ## Citation
-If you use this code or our model, please cite the paper:
+If you use this code or our model, please cite our [paper](https://arxiv.org/abs/2308.11358):
 ```latex
 @inproceedings{ltc2023bahrami,
     Author    = {Emad Bahrami, Gianpiero Francesca, Juergen Gall},
