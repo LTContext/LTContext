@@ -1,10 +1,10 @@
 ## Pretrained Models
 Follow the link to download the pretrained models.
 
-| dataset     | config                             | checkpoint                                                                                       | F1@50 | Acc  | 
-|-------------|------------------------------------|--------------------------------------------------------------------------------------------------|-------|------|
-| Breakfast   | configs/Breakfast/LTContext.yaml   | [`link`](https://drive.google.com/drive/folders/1pjLtPlPKN0DfJfr1TRDwQfzRF5gJSz_0?usp=sharing)   | 61.9  | 74.6 |
-| Assembly101 | configs/Assembly101/LTContext.yaml | [`link`](https://drive.google.com/file/d/1t1Kfqld4kdrfH9PP8kckgs8jA7daBrbD/view?usp=sharing)     | 23.2  | 41.6 |
+| dataset     | config                             | checkpoint                                                                                               | F1@50 | Acc  | 
+|-------------|------------------------------------|----------------------------------------------------------------------------------------------------------|-------|------|
+| Breakfast   | configs/Breakfast/LTContext.yaml   | [`link`](https://drive.filen.io/f/95a780bd-31ac-4496-b32b-543545b24e06#lAhkCP158sA38OkR7FKHsy8fU2kz7kgp) | 61.9  | 74.6 |
+| Assembly101 | configs/Assembly101/LTContext.yaml | [`link`](https://drive.filen.io/d/d66d7a7f-0071-468e-b3e0-2948558ce58b#DrrnC7YKqaubpzTVsBYb0wqDMP2V7UtT) | 23.2  | 41.6 |
 
 
 ## Testing the model
