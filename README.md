@@ -70,6 +70,7 @@ python run_net.py \
   TEST.CHECKPOINT_PATH  [path_to_trained_model] \
   TEST.SAVE_RESULT_PATH [path_to_save_result]
 ```
+Check the [model card](MODEL_CARD.md) to download the pretrained models.
 
 ### Acknowledgement
 The structure of the code is inspired by [SlowFast](https://github.com/facebookresearch/SlowFast). 
