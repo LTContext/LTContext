@@ -18,10 +18,10 @@ The attention mechanism consist of Windowed Attention and Long-term Context Atte
 If you use this code or our model, please cite our [paper](https://arxiv.org/abs/2308.11358):
 ```latex
 @inproceedings{ltc2023bahrami,
-    Author    = {Emad Bahrami, Gianpiero Francesca, Juergen Gall},
-    Title     = {How Much Temporal Long-Term Context is Needed for Action Segmentation?},
-    Booktitle = {IEEE International Conference on Computer Vision (ICCV)},
-    Year      = {2023}
+    author    = {Emad Bahrami and Gianpiero Francesca and Juergen Gall},
+    title     = {How Much Temporal Long-Term Context is Needed for Action Segmentation?},
+    booktitle = {IEEE International Conference on Computer Vision (ICCV)},
+    year      = {2023}
 }
 ```
 
