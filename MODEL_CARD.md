@@ -1,10 +1,10 @@
 ## Pretrained Models
 Follow the link to download the pretrained models.
 
-| dataset     | config                             | checkpoint                                                                                               | F1@50 | Acc  | 
-|-------------|------------------------------------|----------------------------------------------------------------------------------------------------------|-------|------|
-| Breakfast   | configs/Breakfast/LTContext.yaml   | [`link`](https://drive.filen.io/f/95a780bd-31ac-4496-b32b-543545b24e06#lAhkCP158sA38OkR7FKHsy8fU2kz7kgp) | 61.9  | 74.6 |
-| Assembly101 | configs/Assembly101/LTContext.yaml | [`link`](https://drive.filen.io/d/d66d7a7f-0071-468e-b3e0-2948558ce58b#DrrnC7YKqaubpzTVsBYb0wqDMP2V7UtT) | 23.2  | 41.6 |
+| dataset     | config                             | checkpoint                                                                                                                                                                                                                                                                                                                                                                                       | F1@50 | Acc  | 
+|-------------|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|------|
+| Breakfast   | configs/Breakfast/LTContext.yaml   | [`sp1`](https://bit.ly/42KpExR), [`sp2`](https://bit.ly/3wwc7xC), [`sp3`](https://bit.ly/49CVyhQ), [`sp4`](https://bit.ly/3uGLHbY) | 61.9  | 74.6 |
+| Assembly101 | configs/Assembly101/LTContext.yaml | [`link`](https://www.dropbox.com/scl/fi/epsabc9yfivkyiy5vwfc5/assembly101_ltc_ckpt.pth?rlkey=phzw65rl3rbns33ue5fk1253y&dl=0)                                                                                                                                                                                                                                                                     | 23.2  | 41.6 |
 
 
 ## Testing the model
